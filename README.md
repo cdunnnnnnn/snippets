@@ -1,5 +1,5 @@
 # Snippets
-:octocat: **Last updated: 2016-10-06**
+:octocat: *Last updated: 2016-10-06*
 
 ## Table of Contents
 
@@ -7,4 +7,4 @@
 
 ## Sass
 
-- [Sass Mixins For Your Next Project](http://ddtomorrow.com/sass-mixins/) **2016-10-03**
+- [Sass Mixins For Your Next Project](http://ddtomorrow.com/sass-mixins/) *2016-10-03*
